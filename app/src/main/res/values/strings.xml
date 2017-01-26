@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Doors</string>
+    <string name="prompt">Which one has the prize?</string>
+    <string name="game_name">The Monty Hall Problem</string>
+    <string name="false_door">One door has been eliminated.</string>
+    <string name="second_choice">Would you like to choose another door?</string>
+    <string name="yes">Swap</string>
+    <string name="no">Stay</string>
+    <string name="reset">PLAY AGAIN</string>
+</resources>
